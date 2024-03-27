@@ -1,0 +1,1376 @@
+Uri: http://shalomwawa.pl/
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\index-1.htm
+Content Type: text/html
+
+Uri: http://shalomwawa.pl/comments/feed/
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://shalomwawa.pl/feed/
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\css\frontend-lite.min-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\js\frontend-modules.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\js\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\js\webpack.runtime.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\animations\animations.min-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\flatpickr\flatpickr.min-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\flatpickr\flatpickr.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.ttf
+Content Type: font/ttf
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.woff
+Content Type: font/woff
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.svg
+Content Type: image/svg+xml
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.ttf
+Content Type: font/ttf
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.woff
+Content Type: font/woff
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.woff2
+Content Type: font/woff2
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.svg
+Content Type: image/svg+xml
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.ttf
+Content Type: font/ttf
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.woff
+Content Type: font/woff
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.woff2
+Content Type: font/woff2
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.svg
+Content Type: image/svg+xml
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.ttf
+Content Type: font/ttf
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.woff
+Content Type: font/woff
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.woff2
+Content Type: font/woff2
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-blog/assets/css/jet-blog.css?ver=2.3.5.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-blog\assets\css\jet-blog-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-blog/assets/js/jet-blog.min.js?ver=2.3.5.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-blog\assets\js\jet-blog.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-elements/assets/css/jet-elements-skin.css?ver=2.6.14
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-elements\assets\css\jet-elements-skin-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.6.14
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-elements\assets\css\jet-elements-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-elements/assets/images/dummy-map.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-elements\assets\images\dummy-map-1.png
+Content Type: image/png
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-elements\assets\js\jet-elements.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-elements/assets/js/lib/anime-js/anime.min.js?ver=2.2.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-elements\assets\js\lib\anime-js\anime.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.3.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-engine\assets\css\frontend-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-engine/assets/lib/jet-plugins/jet-plugins.js?ver=1.1.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-engine\assets\lib\jet-plugins\jet-plugins-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-menu/assets/public/css/public.css?ver=2.4.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-menu\assets\public\css\public-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-menu/assets/public/js/jet-menu-public-scripts.js?ver=2.4.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-menu\assets\public\js\jet-menu-public-scripts-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-menu/assets/public/lib/vue/vue.min.js?ver=2.6.11
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-menu\assets\public\lib\vue\vue.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-menu/includes/elementor/assets/public/js/widgets-scripts.js?ver=2.4.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-menu\includes\elementor\assets\public\js\widgets-scripts-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-popup/assets/css/jet-popup-frontend.css?ver=2.0.2.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-popup\assets\css\jet-popup-frontend-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-popup/assets/image/transparent.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-popup\assets\image\transparent-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-popup/assets/js/jet-popup-frontend.js?ver=2.0.2.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-popup\assets\js\jet-popup-frontend-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-popup/assets/js/lib/waypoints/jquery.waypoints.min.js?ver=2.0.2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-popup\assets\js\lib\waypoints\jquery.waypoints.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-popup/includes/elementor/assets/js/jet-popup-elementor-frontend.js?ver=2.0.2.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-popup\includes\elementor\assets\js\jet-popup-elementor-frontend-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.2.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tabs\assets\css\jet-tabs-frontend-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-tabs/assets/images/spinner-32.svg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tabs\assets\images\spinner-32-1.svg
+Content Type: image/svg+xml
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js?ver=2.2.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tabs\assets\js\jet-tabs-frontend.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-tricks/assets/css/jet-tricks-frontend.css?ver=1.4.8
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tricks\assets\css\jet-tricks-frontend-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-tricks/assets/js/jet-tricks-frontend.js?ver=1.4.8
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tricks\assets\js\jet-tricks-frontend-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-tricks/assets/js/lib/tippy/popperjs.js?ver=2.5.2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tricks\assets\js\lib\tippy\popperjs-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jet-tricks/assets/js/lib/tippy/tippy-bundle.js?ver=6.3.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tricks\assets\js\lib\tippy\tippy-bundle-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/css/frontend.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\css\frontend.min-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/img/iti-tel-input/flags.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\img\iti-tel-input\flags-1.png
+Content Type: image/png
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/img/iti-tel-input/flags@2x.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\img\iti-tel-input\flags@2x-1.png
+Content Type: image/png
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/js/frontend.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\js\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/lib/animate/animate.min.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\lib\animate\animate.min-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/lib/parallax-scroll/jquery.parallax-scroll.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\lib\parallax-scroll\jquery.parallax-scroll.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/lib/video-mejs/svg/jumpforward.svg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\lib\video-mejs\svg\jumpforward-1.svg
+Content Type: image/svg+xml
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/lib/video-mejs/svg/skipback.svg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\lib\video-mejs\svg\skipback-1.svg
+Content Type: image/svg+xml
+
+Uri: http://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/woocommerce/wc-quick-view.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\woocommerce\wc-quick-view-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/themes/jupiterx/lib/admin/assets/lib/webfont/webfont.min.js?ver=1.6.26
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\themes\jupiterx\lib\admin\assets\lib\webfont\webfont.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/themes/jupiterx/lib/assets/dist/js/frontend.min.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\themes\jupiterx\lib\assets\dist\js\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/themes/jupiterx/lib/assets/dist/js/utils.min.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\themes\jupiterx\lib\assets\dist\js\utils.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/01/IMG_7190-9-1024x683.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_7190-9-1024x683-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/01/IMG_7190-9-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_7190-9-1536x1024-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/01/IMG_7190-9-2048x1365.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_7190-9-2048x1365-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/01/IMG_7190-9-300x200.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_7190-9-300x200-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/01/IMG_7190-9-768x512.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_7190-9-768x512-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/01/IMG_7190-9-scaled.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_7190-9-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/01/IMG_8393-9-1024x683.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_8393-9-1024x683-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/01/IMG_8393-9-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_8393-9-1536x1024-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/01/IMG_8393-9-2048x1365.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_8393-9-2048x1365-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/01/IMG_8393-9-300x200.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_8393-9-300x200-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/01/IMG_8393-9-768x512.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_8393-9-768x512-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/01/IMG_8393-9-scaled.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_8393-9-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063-1024x1024.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063-1024x1024-1.png
+Content Type: image/png
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063-150x150.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063-150x150-1.png
+Content Type: image/png
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063-1536x1536.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063-1536x1536-1.png
+Content Type: image/png
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063-300x300.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063-300x300-1.png
+Content Type: image/png
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063-500x500.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063-500x500-1.png
+Content Type: image/png
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063-768x768.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063-768x768-1.png
+Content Type: image/png
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063-1.png
+Content Type: image/png
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/cropped-лого-круглый-180x180.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\cropped-лого-круглый-180x180-1.png
+Content Type: image/png
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/cropped-лого-круглый-192x192.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\cropped-лого-круглый-192x192-1.png
+Content Type: image/png
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/cropped-лого-круглый-32x32.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\cropped-лого-круглый-32x32-1.png
+Content Type: image/png
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8814-9-1024x683.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8814-9-1024x683-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8814-9-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8814-9-1536x1024-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8814-9-2048x1365.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8814-9-2048x1365-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8814-9-300x200.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8814-9-300x200-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8814-9-768x512.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8814-9-768x512-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8814-9-scaled.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8814-9-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9078-9-1-1269x1536.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9078-9-1-1269x1536-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9078-9-1-1692x2048.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9078-9-1-1692x2048-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9078-9-1-248x300.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9078-9-1-248x300-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9078-9-1-768x929.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9078-9-1-768x929-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9078-9-1-846x1024.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9078-9-1-846x1024-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9078-9-1-scaled.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9078-9-1-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9096-1024x683.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9096-1024x683-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9096-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9096-1536x1024-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9096-2048x1365.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9096-2048x1365-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9096-300x200.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9096-300x200-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9096-768x512.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9096-768x512-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9390-9-1024x683.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9390-9-1024x683-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9390-9-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9390-9-1536x1024-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9390-9-2048x1365.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9390-9-2048x1365-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9390-9-300x200.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9390-9-300x200-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9390-9-768x512.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9390-9-768x512-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9390-9-scaled.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9390-9-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/elementor/css/global.css?ver=1707343690
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\css\global-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/uploads/elementor/css/post-158.css?ver=1709497900
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\css\post-158-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/uploads/elementor/css/post-168.css?ver=1707341592
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\css\post-168-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/uploads/elementor/css/post-4.css?ver=1707341591
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\css\post-4-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/uploads/elementor/css/post-857.css?ver=1710056320
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\css\post-857-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/uploads/elementor/thumbs/65c10ad7c62bb55db27a203c_24.02.08-Rebe-Tents-qkiv3nw45zmislfira1fv47lxttcdq2gz7chttrjhs.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\thumbs\65c10ad7c62bb55db27a203c_24.02.08-Rebe-Tents-qkiv3nw45zmislfira1fv47lxttcdq2gz7chttrjhs.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/elementor/thumbs/IMG_8800-9-2-1-qkivl6ltjtlx6xzdgco3u71wjdgmummd1x3auhsdio.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\thumbs\IMG_8800-9-2-1-qkivl6ltjtlx6xzdgco3u71wjdgmummd1x3auhsdio.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/elementor/thumbs/photo_2022-09-14_08-49-30-2-qkiwxcu1t5jy7i0b5oas4jfcja0uc6v4ocq5a0d0mo.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\thumbs\photo_2022-09-14_08-49-30-2-qkiwxcu1t5jy7i0b5oas4jfcja0uc6v4ocq5a0d0mo.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/elementor/thumbs/photo_2024-02-25_20-24-24-qkirdjb6y20k3q9aysuxkgoqdgwt0klc7c37jemxdc.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\thumbs\photo_2024-02-25_20-24-24-qkirdjb6y20k3q9aysuxkgoqdgwt0klc7c37jemxdc.jpg
+Content Type: image/jpeg
+
+Uri: http://shalomwawa.pl/wp-content/uploads/jupiterx/compiler/jupiterx-elements-dynamic-styles/df5283e.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\jupiterx\compiler\jupiterx-elements-dynamic-styles\df5283e-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-content/uploads/jupiterx/compiler/jupiterx/e5f20d9.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\jupiterx\compiler\jupiterx\e5f20d9-1.css
+Content Type: text/css
+
+Uri: http://shalomwawa.pl/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\dist\hooks.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\dist\vendor\regenerator-runtime.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\dist\vendor\wp-polyfill-inert.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\dist\vendor\wp-polyfill.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\jquery\ui\core.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\underscore.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-includes/js/wp-util.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\wp-util.min-1.js
+Content Type: application/javascript
+
+Uri: http://shalomwawa.pl/wp-json/
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: http://shalomwawa.pl/wp-json/oembed/1.0/embed?url=http:%2F%2Fshalomwawa.pl%2F
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://shalomwawa.pl/wp-json/oembed/1.0/embed?url=http:%2F%2Fshalomwawa.pl%2F&format=xml
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://shalomwawa.pl/wp-json/wp/v2/pages/857
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\wp\v2\pages\857-1
+Content Type: application/json
+
+Uri: http://shalomwawa.pl/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\xmlrpc-1.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=EB+Garamond:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkBI96.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkBI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkBI96.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkBI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-a_NkBI96.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-a_NkBI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-DPNkBI96.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-DPNkBI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-NfNkBI96.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-NfNkBI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7c8R799U60.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7c8R799U60.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7dbR799U60.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7dbR799U60.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7diR799U60.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7diR799U60.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7e8QL99U60.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7e8QL99U60.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7eOQL99U60.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7eOQL99U60.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://shalomwawa.pl/
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\index.htm
+Content Type: text/html
+
+Uri: https://shalomwawa.pl/comments/feed/
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shalomwawa.pl/en/
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\en\index.htm
+Content Type: text/html
+
+Uri: https://shalomwawa.pl/feed/
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shalomwawa.pl/pl/
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\pl\index.htm
+Content Type: text/html
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\flatpickr\flatpickr.min.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\flatpickr\flatpickr.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-blog/assets/css/jet-blog.css?ver=2.3.5.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-blog\assets\css\jet-blog.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-blog/assets/js/jet-blog.min.js?ver=2.3.5.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-blog\assets\js\jet-blog.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-elements/assets/css/jet-elements-skin.css?ver=2.6.14
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-elements\assets\css\jet-elements-skin.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.6.14
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-elements\assets\css\jet-elements.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-elements/assets/images/dummy-map.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-elements\assets\images\dummy-map.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-elements\assets\js\jet-elements.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-elements/assets/js/lib/anime-js/anime.min.js?ver=2.2.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-elements\assets\js\lib\anime-js\anime.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.3.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-engine\assets\css\frontend.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-engine/assets/lib/jet-plugins/jet-plugins.js?ver=1.1.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-engine\assets\lib\jet-plugins\jet-plugins.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-menu/assets/public/css/public.css?ver=2.4.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-menu\assets\public\css\public.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-menu/assets/public/js/jet-menu-public-scripts.js?ver=2.4.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-menu\assets\public\js\jet-menu-public-scripts.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-menu/assets/public/lib/vue/vue.min.js?ver=2.6.11
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-menu\assets\public\lib\vue\vue.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-menu/includes/elementor/assets/public/js/widgets-scripts.js?ver=2.4.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-menu\includes\elementor\assets\public\js\widgets-scripts.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-popup/assets/css/jet-popup-frontend.css?ver=2.0.2.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-popup\assets\css\jet-popup-frontend.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-popup/assets/image/transparent.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-popup\assets\image\transparent.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-popup/assets/js/jet-popup-frontend.js?ver=2.0.2.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-popup\assets\js\jet-popup-frontend.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-popup/assets/js/lib/waypoints/jquery.waypoints.min.js?ver=2.0.2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-popup\assets\js\lib\waypoints\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-popup/includes/elementor/assets/js/jet-popup-elementor-frontend.js?ver=2.0.2.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-popup\includes\elementor\assets\js\jet-popup-elementor-frontend.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.2.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tabs\assets\css\jet-tabs-frontend.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-tabs/assets/images/spinner-32.svg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tabs\assets\images\spinner-32.svg
+Content Type: image/svg+xml
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js?ver=2.2.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tabs\assets\js\jet-tabs-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-tricks/assets/css/jet-tricks-frontend.css?ver=1.4.8
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tricks\assets\css\jet-tricks-frontend.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-tricks/assets/js/jet-tricks-frontend.js?ver=1.4.8
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tricks\assets\js\jet-tricks-frontend.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-tricks/assets/js/lib/tippy/popperjs.js?ver=2.5.2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tricks\assets\js\lib\tippy\popperjs.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jet-tricks/assets/js/lib/tippy/tippy-bundle.js?ver=6.3.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jet-tricks\assets\js\lib\tippy\tippy-bundle.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/css/frontend.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/img/iti-tel-input/flags.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\img\iti-tel-input\flags.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/img/iti-tel-input/flags@2x.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\img\iti-tel-input\flags@2x.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/js/frontend.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/lib/animate/animate.min.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\lib\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/lib/parallax-scroll/jquery.parallax-scroll.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\lib\parallax-scroll\jquery.parallax-scroll.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/lib/video-mejs/svg/jumpforward.svg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\lib\video-mejs\svg\jumpforward.svg
+Content Type: image/svg+xml
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/extensions/raven/assets/lib/video-mejs/svg/skipback.svg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\extensions\raven\assets\lib\video-mejs\svg\skipback.svg
+Content Type: image/svg+xml
+
+Uri: https://shalomwawa.pl/wp-content/plugins/jupiterx-core/includes/woocommerce/wc-quick-view.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\plugins\jupiterx-core\includes\woocommerce\wc-quick-view.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/themes/jupiterx/lib/admin/assets/lib/webfont/webfont.min.js?ver=1.6.26
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\themes\jupiterx\lib\admin\assets\lib\webfont\webfont.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/themes/jupiterx/lib/assets/dist/js/frontend.min.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\themes\jupiterx\lib\assets\dist\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/themes/jupiterx/lib/assets/dist/js/utils.min.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\themes\jupiterx\lib\assets\dist\js\utils.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-content/themes/jupiterx/lib/assets/fonts/jupiterx.eot
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\themes\jupiterx\lib\assets\fonts\jupiterx.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shalomwawa.pl/wp-content/themes/jupiterx/lib/assets/fonts/jupiterx.eot?
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\themes\jupiterx\lib\assets\fonts\jupiterx-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shalomwawa.pl/wp-content/themes/jupiterx/lib/assets/fonts/jupiterx.svg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\themes\jupiterx\lib\assets\fonts\jupiterx.svg
+Content Type: image/svg+xml
+
+Uri: https://shalomwawa.pl/wp-content/themes/jupiterx/lib/assets/fonts/jupiterx.ttf
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\themes\jupiterx\lib\assets\fonts\jupiterx.ttf
+Content Type: font/ttf
+
+Uri: https://shalomwawa.pl/wp-content/themes/jupiterx/lib/assets/fonts/jupiterx.woff
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\themes\jupiterx\lib\assets\fonts\jupiterx.woff
+Content Type: font/woff
+
+Uri: https://shalomwawa.pl/wp-content/themes/jupiterx/lib/assets/fonts/jupiterx.woff2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\themes\jupiterx\lib\assets\fonts\jupiterx.woff2
+Content Type: font/woff2
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2020/06/home-cross-footer.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2020\06\home-cross-footer.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2020/06/home-subscription-pattern.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2020\06\home-subscription-pattern.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/01/IMG_7182-9-2-1-scaled.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_7182-9-2-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/01/IMG_7190-9-1024x683.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_7190-9-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/01/IMG_7190-9-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_7190-9-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/01/IMG_7190-9-2048x1365.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_7190-9-2048x1365.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/01/IMG_7190-9-300x200.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_7190-9-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/01/IMG_7190-9-768x512.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_7190-9-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/01/IMG_7190-9-scaled.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_7190-9-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/01/IMG_8393-9-1024x683.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_8393-9-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/01/IMG_8393-9-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_8393-9-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/01/IMG_8393-9-2048x1365.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_8393-9-2048x1365.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/01/IMG_8393-9-300x200.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_8393-9-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/01/IMG_8393-9-768x512.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_8393-9-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/01/IMG_8393-9-scaled.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\01\IMG_8393-9-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/65c10ad7c62bb55db27a203c_24.02.08-Rebe-Tents.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\65c10ad7c62bb55db27a203c_24.02.08-Rebe-Tents.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063-1024x1024.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063-1024x1024.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063-150x150.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063-150x150.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063-1536x1536.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063-1536x1536.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063-300x300.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063-300x300.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063-500x500.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063-500x500.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063-768x768.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063-768x768.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/8840ebae078a3d61464ba96d2bd5c063.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\8840ebae078a3d61464ba96d2bd5c063.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/cropped-лого-круглый-180x180.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\cropped-лого-круглый-180x180.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/cropped-лого-круглый-192x192.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\cropped-лого-круглый-192x192.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/cropped-лого-круглый-32x32.png
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\cropped-лого-круглый-32x32.png
+Content Type: image/png
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8220-9-1-scaled.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8220-9-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8800-9-2-1.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8800-9-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8814-9-1024x683.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8814-9-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8814-9-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8814-9-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8814-9-2048x1365.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8814-9-2048x1365.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8814-9-300x200.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8814-9-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8814-9-768x512.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8814-9-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_8814-9-scaled.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_8814-9-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9078-9-1-1269x1536.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9078-9-1-1269x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9078-9-1-1692x2048.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9078-9-1-1692x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9078-9-1-248x300.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9078-9-1-248x300.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9078-9-1-768x929.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9078-9-1-768x929.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9078-9-1-846x1024.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9078-9-1-846x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9078-9-1-scaled.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9078-9-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9079-9-scaled.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9079-9-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9096-1024x683.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9096-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9096-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9096-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9096-2048x1365.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9096-2048x1365.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9096-300x200.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9096-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9096-768x512.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9096-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9390-9-1024x683.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9390-9-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9390-9-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9390-9-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9390-9-2048x1365.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9390-9-2048x1365.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9390-9-300x200.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9390-9-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9390-9-768x512.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9390-9-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/IMG_9390-9-scaled.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\IMG_9390-9-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/photo_2022-09-14_08-49-30-2.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\photo_2022-09-14_08-49-30-2.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/2024/02/photo_2024-02-25_20-24-24.jpg
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\2024\02\photo_2024-02-25_20-24-24.jpg
+Content Type: image/jpeg
+
+Uri: https://shalomwawa.pl/wp-content/uploads/elementor/css/global.css?ver=1707343690
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/uploads/elementor/css/post-1222.css?ver=1710691597
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\css\post-1222.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/uploads/elementor/css/post-1316.css?ver=1710108782
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\css\post-1316.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/uploads/elementor/css/post-158.css?ver=1709497900
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\css\post-158.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/uploads/elementor/css/post-168.css?ver=1707341592
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\css\post-168.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/uploads/elementor/css/post-4.css?ver=1707341591
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\css\post-4.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/uploads/elementor/css/post-857.css?ver=1710056320
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\elementor\css\post-857.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/uploads/jupiterx/compiler/jupiterx-elements-dynamic-styles/df5283e.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\jupiterx\compiler\jupiterx-elements-dynamic-styles\df5283e.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-content/uploads/jupiterx/compiler/jupiterx/e5f20d9.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-content\uploads\jupiterx\compiler\jupiterx\e5f20d9.css
+Content Type: text/css
+
+Uri: https://shalomwawa.pl/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-includes/js/wp-util.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://shalomwawa.pl/wp-json/
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://shalomwawa.pl/wp-json/oembed/1.0/embed?url=https:%2F%2Fshalomwawa.pl%2F
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://shalomwawa.pl/wp-json/oembed/1.0/embed?url=https:%2F%2Fshalomwawa.pl%2F&format=xml
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://shalomwawa.pl/wp-json/oembed/1.0/embed?url=https:%2F%2Fshalomwawa.pl%2Fen%2F
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://shalomwawa.pl/wp-json/oembed/1.0/embed?url=https:%2F%2Fshalomwawa.pl%2Fen%2F&format=xml
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://shalomwawa.pl/wp-json/oembed/1.0/embed?url=https:%2F%2Fshalomwawa.pl%2Fpl%2F
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://shalomwawa.pl/wp-json/oembed/1.0/embed?url=https:%2F%2Fshalomwawa.pl%2Fpl%2F&format=xml
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://shalomwawa.pl/wp-json/wp/v2/pages/1222
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\wp\v2\pages\1222
+Content Type: application/json
+
+Uri: https://shalomwawa.pl/wp-json/wp/v2/pages/1316
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\wp\v2\pages\1316
+Content Type: application/json
+
+Uri: https://shalomwawa.pl/wp-json/wp/v2/pages/857
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\wp-json\wp\v2\pages\857
+Content Type: application/json
+
+Uri: https://shalomwawa.pl/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\shalomwawa.pl\xmlrpc.php
+Content Type: text/xml
+
